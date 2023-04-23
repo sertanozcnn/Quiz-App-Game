@@ -1,0 +1,107 @@
+{
+  "sciencequestions": [
+
+    {
+      "question":"Atom numarası 6 olan element nedir?",
+      "answer1": "A) Hidrojen",
+      "answer2": "B) Oksijen",
+      "answer3": "C) Karbon",
+      "answer4": "D) Nitrojen",
+      "correct": "C) Karbon"
+
+    },
+
+    {
+      "question":"Hangi bileşik suyun kimyasal formülüdür?",
+      "answer1": "A) NaCl",
+      "answer2": "B) CO2",
+      "answer3": "C) H2O",
+      "answer4": "D) NH3",
+      "correct": "C) H2O"
+
+    },
+
+    {
+      "question":"Fotosentezde ne tür enerji kullanılır?",
+      "answer1": "A) Elektrik Enerjisi",
+      "answer2": "B) Kimyasal Enerji",
+      "answer3": "C) Nükleer Enerji",
+      "answer4": "D) Rüzgar Enerjisi",
+      "correct": "B) Kimyasal Enerji"
+
+    },
+
+    {
+      "question":"Hangisi asit yağlardan elde edilir?",
+      "answer1": "A) Glukoz",
+      "answer2": "B) Fruktoz",
+      "answer3": "C) Stearik Asit",
+      "answer4": "D) Asetik asit",
+      "correct": "C) Stearik Asit"
+
+    },
+
+
+    {
+      "question":"Hangisi en küçük boyutta olan organizmadır?",
+      "answer1": "A) Bakteri",
+      "answer2": "B) Virüs",
+      "answer3": "C) Alg",
+      "answer4": "D) Mantar",
+      "correct": "B) Virüs"
+
+    },
+
+    {
+      "question":"Hangi moleküler yapı, enerjiyi hücrede depolamak için kullanılır?",
+      "answer1": "A) RNA",
+      "answer2": "B) DNA",
+      "answer3": "C) ATP",
+      "answer4": "D) GTP",
+      "correct": "B) DNA"
+
+    },
+
+    {
+      "question":"Elektromanyetik spektrumda hangi ışınlar en yüksek enerjiye sahiptir?",
+      "answer1": "A) X ışınları",
+      "answer2": "B) Ultraviyole ışınları",
+      "answer3": "C) Kızılötesi ışınlar",
+      "answer4": "D) Gama ışınları",
+      "correct": "D) Gama ışınları"
+
+    },
+
+    {
+      "question":"Kimya'da pH değeri neyi ifade eder?",
+      "answer1": "A) Asitlik veya bazlık seviyesini",
+      "answer2": "B) Metal oranını",
+      "answer3": "C) Elektrik yükünü",
+      "answer4": "D) Isı kapasitesini",
+      "correct": "A) Asitlik veya bazlık seviyesini"
+
+    },
+
+    {
+      "question":"Elektrik akımı hangi yönlerde akar?",
+      "answer1": "A) Yalnızca doğuya",
+      "answer2": "B) Yalnızca batıya",
+      "answer3": "C) Her iki yöne de",
+      "answer4": "D) Hiçbir yöne akamaz",
+      "correct": "D) Hiçbir yöne akamaz"
+
+    },
+
+    {
+      "question":"Einstein'ın ünlü denklemi E=mc², hangi konuda çalışması sonucu ortaya çıkmıştır?",
+      "answer1": "A) Röntgen ışınları",
+      "answer2": "B) Optik",
+      "answer3": "C) Radyoaktivite",
+      "answer4": "D) Kuantum mekaniği",
+      "correct": "C) Radyoaktivite"
+
+    }
+  ]
+
+
+}

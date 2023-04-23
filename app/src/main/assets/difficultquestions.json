@@ -1,0 +1,107 @@
+{
+  "difficulquestions": [
+
+    {
+      "question":"Moğol İmparatorluğu'nun kurucusu kimdir?",
+      "answer1": "A) Cengiz Han",
+      "answer2": "B) Babür Şah",
+      "answer3": "C) Tamerlan",
+      "answer4": "D) İskender-i Zülkarneyn",
+      "correct":"A) Cengiz Han"
+
+    },
+
+    {
+      "question":"1215 yılında hangi belge İngiltere Kralı John tarafından imzalanmıştır?",
+      "answer1": "A) Domesday Book",
+      "answer2": "B) Doğu Hint Adaları Yasası",
+      "answer3": "C) Magna Carta",
+      "answer4": "D) Westminster Antlaşması",
+      "correct": "C) Magna Carta"
+
+    },
+
+    {
+      "question":"Hangi tarihte Sovyetler Birliği dağılmıştır?",
+      "answer1": "A) 1968",
+      "answer2": "B) 1975",
+      "answer3": "C) 1985",
+      "answer4": "D) 1991",
+      "correct": "D) 1991"
+
+    },
+
+    {
+      "question":"İlk Çin Hanedanlığı hangi yüzyılda kurulmuştur?",
+      "answer1": "A) 3. yüzyıl",
+      "answer2": "B) 4. yüzyıl",
+      "answer3": "C) 2. yüzyıl",
+      "answer4": "D) 1. yüzyıl",
+      "correct": "C) 2. yüzyıl"
+
+    },
+
+
+    {
+      "question":"İlk haçlı seferi hangi yüzyılda gerçekleşmiştir?",
+      "answer1": "A) 9. yüzyıl",
+      "answer2": "B) 10. yüzyıl",
+      "answer3": "C) 11. yüzyıl",
+      "answer4": "D) 12. yüzyıl",
+      "correct":"C) 11. yüzyıl"
+
+    },
+
+    {
+      "question":"İlk yazılı Anayasa hangi ülke tarafından kabul edilmiştir?",
+      "answer1": "A) ABD",
+      "answer2": "B) Fransa",
+      "answer3": "C) İngiltere",
+      "answer4": "D) İtalya",
+      "correct": "A) ABD"
+
+    },
+
+    {
+      "question":"İspanya'da, 711 yılında Müslümanların başlattığı ve yaklaşık 800 yıl süren dönemin adı nedir?",
+      "answer1": "A) Vizigot Dönemi",
+      "answer2": "B) Endülüs Dönemi",
+      "answer3": "C) Reconquista Dönemi",
+      "answer4": "D) Emirlik Dönemi",
+      "correct": "B) Endülüs Dönemi"
+
+    },
+
+    {
+      "question":"1066 yılında gerçekleşen ve İngiltere tarihinde önemli bir yere sahip olan savaşın adı nedir?",
+      "answer1": "A) Agincourt Muharebesi",
+      "answer2": "B) Hastings Muharebesi",
+      "answer3": "C) Crecy Muharebesi",
+      "answer4": "D) Bannockburn Muharebesi",
+      "correct": "B) Hastings Muharebesi"
+
+    },
+
+    {
+      "question":"Amerika Birleşik Devletleri'nin bağımsızlığı hangi yıl ilan edilmiştir?",
+      "answer1": "A) 1783",
+      "answer2": "B) 1776",
+      "answer3": "C) 1791",
+      "answer4": "D) 1802",
+      "correct": "B) 1776"
+
+    },
+
+    {
+      "question":"II. Dünya Savaşı'nın sonunda atom bombası hangi şehre atılmıştır?",
+      "answer1": "A) Berlin",
+      "answer2": "B) Tokyo",
+      "answer3": "C) Hiroshima",
+      "answer4": "D) Nagasaki",
+      "correct": "C) Hiroshima"
+
+    }
+  ]
+
+
+}

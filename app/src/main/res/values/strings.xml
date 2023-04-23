@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+
+    <style name="dark_mode">Theme</style>
+
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System Default</string>
+    <string name="set_battery">Set by Battery Saver</string>
+</resources>

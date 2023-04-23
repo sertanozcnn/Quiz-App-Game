@@ -1,0 +1,106 @@
+{
+  "easyquestions": [
+
+    {
+      "question":"Dünyanın en büyük adası hangisidir?",
+      "answer1": "A) Grönland",
+      "answer2": "B) Yeni Gine",
+      "answer3": "C) Madagaskar",
+      "answer4": "D) Baffin Adası",
+      "correct":"A) Grönland"
+
+    },
+
+    {
+      "question":"Afrika'nın en büyük gölü hangisidir?",
+      "answer1": "A) Malawi Gölü",
+      "answer2": "B) Tanganika Gölü",
+      "answer3": "C) Kuzey Gölü",
+      "answer4": "D) Victoria Gölü",
+      "correct": "D) Victoria Gölü"
+
+    },
+
+    {
+      "question":"Dünya'nın en büyük kıtası hangisidir?",
+      "answer1": "A) Amerika",
+      "answer2": "B) Asya",
+      "answer3": "C) Avrupa",
+      "answer4": "D) Afrika",
+      "correct": "B) Asya"
+
+    },
+
+    {
+      "question":"İtalya'nın en yüksek dağı hangisidir?",
+      "answer1": "A) Monte Rosa",
+      "answer2": "B) Mont Blanc",
+      "answer3": "C) Cervino",
+      "answer4": "D) Etna",
+      "correct": "D) Etna"
+
+    },
+
+
+    {
+      "question":"Rusya'nın en uzun nehri hangisidir?",
+      "answer1": "A) Dinyeper Nehri",
+      "answer2": "B) Don Nehri",
+      "answer3": "C) Volga Nehri",
+      "answer4": "D) Ob Nehri",
+      "correct": "C) Volga Nehri"
+
+    },
+
+    {
+      "question":"Dünya'nın en büyük yanardağı hangisidir?",
+      "answer1": "A) Kilimanjaro",
+      "answer2": "B) Fuji",
+      "answer3": "C) Etna",
+      "answer4": "D) Mauna Loa",
+      "correct": "D) Mauna Loa"
+
+    },
+
+    {
+      "question":"Asya'nın en yüksek dağı hangisidir?",
+      "answer1": "A) Everest",
+      "answer2": "B) K2",
+      "answer3": "C) Annapurna",
+      "answer4": "D) Nanga Parbat",
+      "correct": "A) Everest"
+
+    },
+
+    {
+      "question":"Dünya'daki en büyük petrol ihracatçısı ülke hangisidir?",
+      "answer1": "A) Suudi Arabistan",
+      "answer2": "B) Rusya",
+      "answer3": "C) ABD",
+      "answer4": "D) İran",
+      "correct": "A) Suudi Arabistan"
+    },
+
+    {
+      "question":"Dünyanın en büyük kanyonu hangisidir??",
+      "answer1": "A) Yarlung Zangbo Kanyonu",
+      "answer2": "B) Kolorado Kanyonu",
+      "answer3": "C) Tara Kanyonu",
+      "answer4": "D) Fish River Kanyonu",
+      "correct": "B) Kolorado Kanyonu"
+
+    },
+
+    {
+      "question":"Nil Nehri'nin kaynağı nerededir?",
+      "answer1": "A) Mısır",
+      "answer2": "B) Kenya",
+      "answer3": "C) Etiyopya",
+      "answer4": "D) Sudan",
+      "correct": "C) Etiyopya"
+
+    }
+  ]
+
+
+}
